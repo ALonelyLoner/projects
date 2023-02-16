@@ -3,7 +3,7 @@ Some pet projects that I wanted to try out... most will never meet the light of 
 
 The idea is to write a program that maximizes and diversifies investments. Taking multiple different strategies and sources and compiling them into recommendations. 
 
-Strategies: 
+## Strategies: 
 - Commodities Arbitrage(?)
 - Value investments (cash flow)
 - Dividend investments
@@ -12,7 +12,7 @@ Strategies:
 - Microeconomic theories/methods
 - Company financial information
 
-Sources:
+## Sources:
 - Insider Trading
 - General Stock Information
 - Current stock market data
@@ -21,7 +21,7 @@ Sources:
 - The Fed
 - Betting Casinos
 
-Research:
+## Research:
 - Statistical analysis
 - Financial analysis
 - Microeconomics
@@ -30,7 +30,7 @@ Research:
 - Web scraping...
 - Python vs. C++
 
-TODO:
+# TODO:
 [ ] Get Framework worked out, lol
 [ ] Start working on getting external libraries working (like the pdf one).
     [ ] Git submodules?

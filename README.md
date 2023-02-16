@@ -27,3 +27,10 @@ Research:
 - Microeconomics
 - Macroeconomics
 - Options Trading
+
+TODO:
+[ ] Get Framework worked out, lol
+[ ] Start working on getting external libraries working (like the pdf one).
+    [ ] Git submodules?
+[ ] Jenkins Pipeline? What about the nickname Mario?
+

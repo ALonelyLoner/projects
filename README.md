@@ -27,6 +27,8 @@ Research:
 - Microeconomics
 - Macroeconomics
 - Options Trading
+- Web scraping...
+- Python vs. C++
 
 TODO:
 [ ] Get Framework worked out, lol

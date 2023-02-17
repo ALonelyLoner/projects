@@ -29,10 +29,31 @@ The idea is to write a program that maximizes and diversifies investments. Takin
 - Options Trading
 - Web scraping...
 - Python vs. C++
+- GoDot Game Engine?
+- Research Gate?
+- Flask
+- Google Data Science course
+- Hugo frameworks?
 
 # TODO:
 [ ] Get Framework worked out, lol
 [ ] Start working on getting external libraries working (like the pdf one).
     [ ] Git submodules?
-[ ] Jenkins Pipeline? What about the nickname Mario?
+[ ] Jenkins Pipeline? What about the nickname "Mario"?
+
+
+
+#### Notifications
+Event.Notify()->Subscriber(Who, How)
+
+#### Event
+int occurrences
+int&[] subscribers
+
+if eventHappened
+    inc Occurrence
+    notify subscribers
+
+Note: We might not want to constantly increase (maybe loop) occurrences because they might overflow.
+Note: Do we need to track occurrences?
 
